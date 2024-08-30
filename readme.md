@@ -27,7 +27,9 @@ Vision AI Module V2 Kitのマイコン上で、機械学習したモデルをリ
 1.Software  
 -----------------------------  
 ・μT-Kernel 3.0 (use Persol media Software)
-  Persol media Softwareの～～を使って、環境構築を行ってください  
+  Persol media Softwareの[IoTエッジノード実践キット/micro:bit]を使って、
+  http://www.t-engine4u.com/products/ioten_prackit.html
+  環境構築を行ってください  
   Eclipse上でビルドできるようにしたプログラムの
   app_sampleフォルダ内に、本プログラムのフォルダを上書きしてください
   
